@@ -1,3 +1,7 @@
+## Synopsis
+
+This is a Visual Studio Code (VSCode) WebAPI project using ASP.Net 5, MVC 6 and Entity Framework 7.
+
 ## Starting up the service
 
 After starting the server using dnx:web (Microsoft.AspNet.Hosting) 
