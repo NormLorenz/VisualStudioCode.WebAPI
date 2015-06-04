@@ -1,8 +1,7 @@
-using System;
+using Microsoft.AspNet.Mvc;
+using VisualStudioCode.WebAPI.Models;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNet.Mvc;
 
 namespace VisualStudioCode.WebAPI.Controllers
 {
